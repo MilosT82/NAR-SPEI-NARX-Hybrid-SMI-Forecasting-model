@@ -28,8 +28,9 @@ The Soil Moisture Index (SMI) may be predicted using high-frequency hydroclimati
 
 ## Input datasets
 
-The Excel table includes columns detailing measurements from a meteorological station situated near Novi Sad, Serbia. This weather station features an extensive array of sensors. The sensors quantify six features, which correspond to variables in an Excel data frame: SM (soil moisture), T (air temperature) and P (precipitation). The Excel spreadsheet is excluded from this repository due to data protection considerations.
+The Excel table includes columns detailing measurements from a meteorological station situated near Novi Sad, Vojvodina, Serbia. This weather station features an extensive array of sensors. The sensors quantify six features, which correspond to variables in an Excel data frame: SM (soil moisture), T (air temperature) and P (precipitation). The Excel spreadsheet is excluded from this repository due to data protection considerations.
 
+The NAR–SPEI–NARKS hybrid forecasting model was utilized on data from the Kac measuring station in Vojvodina,Serbia to evaluate the current model. 
 
 ## Dependencies
 
