@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Python Program for NAR-SPEI-SPEI Hybrid SMI Forecasting model
+## Python Program for NAR-SPEI-NARX Hybrid SMI Forecasting model
 The Soil Moisture Index (SMI) may be predicted using high-frequency hydroclimatic measurements and this Python program's hybrid NAR and NARX architecture. The methodology includes univariate nonlinear precipitation and temperature forecasting, transformation into a standardized hydroclimatic index representing accumulated water balance, and hybrid nonlinear state evolution modeling of soil moisture anomalies using feedback and exogenous forcing. A rigorous chronological validation methodology guarantees out-of-sample integrity. Formalized NARX design attributes include universal approximation guarantees for finite-memory dynamical systems. Sensitivity study evaluates resilience to lag order, accumulation window length, and neural network capacity. The framework is robust, computationally tractable, and operationally replicable.
 
 
@@ -30,7 +30,7 @@ The Soil Moisture Index (SMI) may be predicted using high-frequency hydroclimati
 
 The Excel table includes columns detailing measurements from a meteorological station situated near Novi Sad, Vojvodina, Serbia. This weather station features an extensive array of sensors. The sensors quantify six features, which correspond to variables in an Excel data frame: SM (soil moisture), T (air temperature) and P (precipitation). The Excel spreadsheet is excluded from this repository due to data protection considerations.
 
-The NAR–SPEI–NARKS hybrid forecasting model was utilized on data from the Kac measuring station in Vojvodina,Serbia to evaluate the current model. 
+The NAR–SPEI–NARX hybrid forecasting model was utilized on data from the Kac measuring station in Vojvodina,Serbia to evaluate the current model. 
 
 ## Dependencies
 
